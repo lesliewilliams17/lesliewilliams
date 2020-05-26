@@ -58,9 +58,10 @@ h3 {
 }
 
 .container {
-  width: 900px;
   margin: 0 auto;
+  max-width: 100%;
   padding: 60px;
+   width: 900px;
 }
 img {
   width: 300px;
